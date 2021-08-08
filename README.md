@@ -1,2 +1,16 @@
-# ENGL-681_HASOC_2019
+# Multilingual Offensive Language Identification
 Hai-Yen Nguyen, Skye Morgan, Austin Simmons
+
+Packages required:
+* numpy
+* pandas
+* nltk
+* re
+* spacy
+* sklearn
+* string
+* keras
+* tensorflow
+* pytorch
+
+Instructions:
