@@ -1,4 +1,4 @@
-# Multilingual Offensive Language Identification
+# Hate Speech Identification [HASOC 2019 Subtask A]
 Hai-Yen Nguyen, Skye Morgan, Austin Simmons
 
 ###### Package Requirement
