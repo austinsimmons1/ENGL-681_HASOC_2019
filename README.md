@@ -1,7 +1,7 @@
 # Multilingual Offensive Language Identification
 Hai-Yen Nguyen, Skye Morgan, Austin Simmons
 
-Packages required:
+###### Package Requirement
 * numpy
 * pandas
 * nltk
@@ -13,4 +13,18 @@ Packages required:
 * tensorflow
 * pytorch
 
-Instructions:
+##Setup
+Clone the repository using:
+
+```
+$git clone https://github.com/austinsimmons1/ENGL-681_HASOC_2019.git` 
+```
+
+Upload `ENG_681_CWI.ipynb' to [Google Colab](https://colab.research.google.com/notebooks/)
+Upload `hasoc_train.csv` and `hasoc_test.csv` to Google Colab Files.
+
+
+##Operation
+
+Run All (Ctrl+F9) 
+
